@@ -1,0 +1,55 @@
+#logo-container{
+    display: inline-block;
+     font-size: 5em;
+    color: rgb(241, 236, 236);
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 100%;
+    /* height: 100px; */
+}
+
+#nav-items{
+    height: 200px;
+    background-color: black;
+    /* display: inline-block; */
+}
+
+#top-menu{
+    height: 200px;
+    background-color: black;
+    font-family: 'Pacifico', cursive;
+  /* background-color: whitesmoke; */
+  width: 100%;
+  /* background-image: url("../image/imattsmart-sm0Bkoj5bnA-unsplash.jpg"); */
+  background-size: cover;
+}
+
+#menu-items{    
+    margin-left:10%;
+    display: inline-block;
+    height: 100%;
+}
+
+#menu-items li{
+    display: inline-block;
+    /* padding: 2rem 1rem 2rem 1rem;     */
+    font-size: 2rem;
+    color: rgb(241, 236, 236);   
+    padding: 20px;
+}
+
+#menu-items li a{
+    font-size: 2rem;
+    color: rgb(241, 236, 236);   
+}
+
+#menu-items li a:link{
+    text-decoration: none;
+}
+
+#menu-itmes ul{
+    display: inline-block;
+    /* margin-left: 30%; */
+    /* padding: 2rem 1rem 2rem 1rem;    
+    font-size: 1.5rem; */
+}
